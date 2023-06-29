@@ -4,7 +4,7 @@ A command-line dice roller written in Rust that demonstrates the Central Limit T
 
 ## Features
 
-    Roll multiple dice with a customizable number of faces
+    Roll multiple dice with a given number of faces
     Generate the distribution of the sum of the dice
     Visualize the distribution using a histogram
 
